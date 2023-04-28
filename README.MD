@@ -5,7 +5,7 @@ A simple Go program that recursively walks through a directory and prints the co
 ## Usage
 
 ```
-copy codego run main.go <directory>
+go run main.go <directory>
 ```
 
 Replace `<directory>` with the path to the directory you want to inspect.
@@ -13,7 +13,7 @@ Replace `<directory>` with the path to the directory you want to inspect.
 ## Example
 
 ```
-copy codego run main.go /path/to/directory
+go run main.go /path/to/directory
 ```
 
 ## License
